@@ -1,4 +1,5 @@
-#copied from https://gist.github.com/dobrosketchkun/f14e1ab9ae817b00b28251f11786fbcf
+# base copied from https://gist.github.com/dobrosketchkun/f14e1ab9ae817b00b28251f11786fbcf
+# code changed and added by hackefleisch
 
 import requests
  
