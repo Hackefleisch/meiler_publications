@@ -1,0 +1,243 @@
+G. Sliwoski, S. Kothiwale, J. Meiler,* E. Lowe,
+Computational Methods in Drug Discovery
+Pharmacol Rev 2014, 66, 334-395. http://dx.doi.org/10.1124/pr.112.007336 
+
+J. Leman,, R. Mueller, M. Karakas, N. Woetzel, J. Meiler,*
+Simultaneous prediction of protein secondary structure and transmembrane spans
+Proteins 2013, 81, 1127-1140. http://dx.doi.org/10.1002/prot.24258 
+
+G. Sliwoski, J. Mendenhall, J. Meiler,*
+Autocorrelation descriptor improvements for QSAR: 2DA_Sign and 3DA_Sign
+J Comput Aided Mol Des 2015, 30, 209-217. http://dx.doi.org/10.1007/s10822-015-9893-9 
+
+A. Gulsevin, B. Han, J. Porta, H. Mchaourab, J. Meiler,* A. Kenworthy,
+Template-free prediction of a new monotopic membrane protein fold and assembly by AlphaFold2
+Biophysical Journal 2022, 122, 2041-2052. http://dx.doi.org/10.1016/j.bpj.2022.11.011 
+
+D. del Alamo, L. DeSousa, R. Nair, S. Rahman, J. Meiler,* H. Mchaourab,
+Integrated AlphaFold2 and DEER investigation of the conformational dynamics of a pH-dependent APC antiporter
+Proc. Natl. Acad. Sci. U.S.A. 2022, 119. http://dx.doi.org/10.1073/pnas.2206129119 
+
+S. DeLuca, J. Meiler,*
+A Novel Method for Guiding Protein-Ligand Docking with QSAR-Derived Pharmacophore Maps
+Biophysical Journal 2011, 100, 394a-395a. http://dx.doi.org/10.1016/j.bpj.2010.12.2344 
+
+J. Koehler, N. Woetzel, R. Staritzbichler, C. Sanders, J. Meiler,*
+A unified hydrophobicity scale for multispan membrane proteins
+Proteins 2008, 76, 13-29. http://dx.doi.org/10.1002/prot.22315 
+
+B. Brown, R. Stein, J. Meiler,* H. Mchaourab,
+Approximating conformational Boltzmann distributions with AlphaFold2 predictions
+bioRxiv 2023. http://dx.doi.org/10.1101/2023.08.06.552168 
+
+J. Meiler,* R. Meusinger, M. Will,
+Fast Determination of <sup>13</sup>C NMR Chemical Shifts Using Artificial Neural Networks
+J. Chem. Inf. Comput. Sci. 2002, 40, 1169-1176. http://dx.doi.org/10.1021/ci000021c 
+
+O. Vu, J. Mendenhall, D. Altarawy, J. Meiler,*
+BCL::Mol2D—a robust atom environment descriptor for QSAR modeling and lead optimization
+J Comput Aided Mol Des 2019, 33, 477-486. http://dx.doi.org/10.1007/s10822-019-00199-8 
+
+B. Li, J. Mendenhall, J. Capra, J. Meiler,*
+A Multitask Deep-Learning Method for Predicting Membrane Associations and Secondary Structures of Proteins
+J. Proteome Res. 2021, 20, 4089-4100. http://dx.doi.org/10.1021/acs.jproteome.1c00410 
+
+G. Sliwoski, E. Lowe, M. Butkiewicz, J. Meiler,*
+BCL::EMAS — Enantioselective Molecular Asymmetry Descriptor for 3D-QSAR
+Molecules 2012, 17, 9971-9989. http://dx.doi.org/10.3390/molecules17089971 
+
+D. Sala, F. Engelberger, H. Mchaourab, J. Meiler,*
+Modeling conformational states of proteins with AlphaFold
+Current Opinion in Structural Biology 2023, 81, 102645. http://dx.doi.org/10.1016/j.sbi.2023.102645 
+
+E. Lowe, M. Butkiewicz, M. Spellings, A. Omlor, J. Meiler,*
+Comparative analysis of machine learning techniques for the prediction of logP
+2011 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2011, 1-6. http://dx.doi.org/10.1109/CIBCB.2011.5948478 
+
+A. Blee, B. Li, T. Pecen, J. Meiler,* Z. Nagel, J. Capra, W. Chazin,
+An Active Learning Framework Improves Tumor Variant Interpretation
+Cancer Research 2022, 82, 2704-2715. http://dx.doi.org/10.1158/0008-5472.CAN-21-3798 
+
+M. Kuhn, J. Meiler,* D. Baker,
+Strand‐loop‐strand motifs: Prediction of hairpins and diverging turns in proteins
+Proteins 2003, 54, 282-288. http://dx.doi.org/10.1002/prot.10589 
+
+L. Somermeyer, A. Fleiss, A. Mishin, N. Bozhanova, A. Igolkina, J. Meiler,* M. Pujol, E. Putintseva, K. Sarkisyan, F. Kondrashov,
+Heterogeneity of the GFP fitness landscape and data-driven protein design
+bioRxiv 2021. http://dx.doi.org/10.1101/2021.12.08.471728 
+
+E. Lowe, M. Butkiewicz, N. Woetzel, J. Meiler,*
+GPU-accelerated machine learning techniques enable QSAR modeling of large HTS data
+2012 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2012, 314-320. http://dx.doi.org/10.1109/CIBCB.2012.6217246 
+
+J. Meiler,* M. Köck,
+Novel methods of automated structure elucidation based on <sup>13</sup>C NMR spectroscopy
+Magnetic Reson in Chemistry 2004, 42, 1042-1045. http://dx.doi.org/10.1002/mrc.1424 
+
+Y. Liu, R. Moretti, Y. Wang, H. Dong, B. Yan, B. Bodenheimer, T. Derr, J. Meiler,*
+Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors
+bioRxiv 2023. http://dx.doi.org/10.1101/2023.04.17.537185 
+
+J. Mendenhall, J. Meiler,*
+Improving quantitative structure–activity relationship models using Artificial Neural Networks trained with dropout
+J Comput Aided Mol Des 2016, 30, 177-189. http://dx.doi.org/10.1007/s10822-016-9895-2 
+
+E. Lowe, A. Ferrebee, A. Rodriguez, P. Conn, J. Meiler,*
+3D-QSAR CoMFA study of benzoxazepine derivatives as mGluR5 positive allosteric modulators
+Bioorganic &amp; Medicinal Chemistry Letters 2010, 20, 5922-5924. http://dx.doi.org/10.1016/j.bmcl.2010.07.061 
+
+V. Golkov, M. Skwark, A. Mirchev, G. Dikov, A. Geanes, J. Mendenhall, J. Meiler,* D. Cremers,
+3D Deep Learning for Biological Function Prediction from Physical Fields
+2020 International Conference on 3D Vision (3DV) 2021, 928-937. http://dx.doi.org/10.1109/3DV50981.2020.00103 
+
+M. Butkiewicz, R. Mueller, D. Selic, E. Dawson, J. Meiler,*
+Application of machine learning approaches on quantitative structure activity relationships
+2009 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology 2009, 255-262. http://dx.doi.org/10.1109/CIBCB.2009.4925736 
+
+V. Golkov, A. Becker, D. Plop, D. Čuturilo, N. Davoudi, J. Mendenhall, R. Moretti, J. Meiler,* D. Cremers,
+Deep Learning for Virtual Screening: Five Reasons to Use ROC Cost Functions
+arXiv 2020. https://arxiv.org/abs/2007.07029 
+
+S. Phul, G. Kuenze, C. Vanoye, C. Sanders, A. George, J. Meiler,*
+Predicting the Functional Impact of KCNQ1 Variants with Artificial Neural Networks
+bioRxiv 2021. http://dx.doi.org/10.1101/2021.12.06.471347 
+
+S. Phul, G. Kuenze, C. Vanoye, C. Sanders, A. George, J. Meiler,*
+Predicting the functional impact of KCNQ1 variants with artificial neural networks
+PLoS Comput Biol 2022, 18, e1010038. http://dx.doi.org/10.1371/journal.pcbi.1010038 
+
+L. Gonzalez Somermeyer, A. Fleiss, A. Mishin, N. Bozhanova, A. Igolkina, J. Meiler,* M. Alaball Pujol, E. Putintseva, K. Sarkisyan, F. Kondrashov,
+Heterogeneity of the GFP fitness landscape and data-driven protein design
+eLife 2022, 11. http://dx.doi.org/10.7554/eLife.75842 
+
+R. Mueller, E. Dawson, J. Meiler,* A. Rodriguez, B. Chauder, B. Bates, A. Felts, J. Lamb, U. Menon, S. Jadhav, A. Kane, C. Jones, K. Gregory, C. Niswender, P. Conn, C. Olsen, D. Winder, K. Emmitte, C. Lindsley,
+Discovery of 2‐(2‐Benzoxazoyl amino)‐4‐Aryl‐5‐Cyanopyrimidine as Negative Allosteric Modulators (NAMs) of Metabotropic Glutamate Receptor 5 (mGlu<sub>5</sub>): From an Artificial Neural Network Virtual Screen to an In Vivo Tool Compound
+ChemMedChem 2012, 7, 406-414. http://dx.doi.org/10.1002/cmdc.201100510 
+
+M. Ertelt, J. Meiler,* C. Schoeder,
+Combining Rosetta Sequence Design with Protein Language Model Predictions Using Evolutionary Scale Modeling (ESM) as Restraint
+ACS Synth. Biol. 2024, 13, 1085-1092. http://dx.doi.org/10.1021/acssynbio.3c00753 
+
+M. Fischer, J. Crowe, J. Meiler,*
+Computational epitope mapping of class I fusion proteins using low complexity supervised learning methods
+PLoS Comput Biol 2022, 18, e1010230. http://dx.doi.org/10.1371/journal.pcbi.1010230 
+
+C. Kuntz, H. Woods, A. McKee, N. Zelt, J. Mendenhall, J. Meiler,* J. Schlebach,
+Towards Generalizable Predictions for the Effects of Mutations on G-Protein Coupled Receptor Expression
+bioRxiv 2021. http://dx.doi.org/10.1101/2021.12.28.474371 
+
+S. Jiang, Z. Su, N. Bloodworth, Y. Liu, C. Martina, D. Harrison, J. Meiler,*
+Machine learning application to predict binding affinity between peptide containing non-canonical amino acids and HLA0201
+bioRxiv 2024. http://dx.doi.org/10.1101/2024.11.19.624425 
+
+X. Kuang, z. su, Y. Liu, X. Lin, J. Smith, T. Derr, Y. Wu, J. Meiler,*
+SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI
+bioRxiv 2024. http://dx.doi.org/10.1101/2024.11.18.624208 
+
+A. Geanes, H. Cho, K. Nance, K. McGowan, P. Conn, C. Jones, J. Meiler,* C. Lindsley,
+Ligand-based virtual screen for the discovery of novel M5 inhibitor chemotypes
+Bioorganic &amp; Medicinal Chemistry Letters 2016, 26, 4487-4491. http://dx.doi.org/10.1016/j.bmcl.2016.07.071 
+
+J. Meiler,* D. Baker,
+Coupled prediction of protein secondary and tertiary structure
+Proc. Natl. Acad. Sci. U.S.A. 2003, 100, 12105-12110. http://dx.doi.org/10.1073/pnas.1831973100 
+
+E. McDonald, K. Oliver, J. Schlebach, J. Meiler,* L. Plate,
+Benchmarking AlphaMissense pathogenicity predictions against cystic fibrosis variants
+PLoS ONE 2024, 19, e0297560. http://dx.doi.org/10.1371/journal.pone.0297560 
+
+J. DeCorte, B. Brown, J. Meiler,*
+Interpretable deep-learning pKa prediction for small molecule drugs via atomic sensitivity analysis
+ChemRxiv 2024. http://dx.doi.org/10.26434/chemrxiv-2024-hr692 
+
+D. Sala, P. Hildebrand, J. Meiler,*
+Biasing AlphaFold2 to predict GPCRs and kinases with user-defined functional or structural properties
+Front. Mol. Biosci. 2023, 10. http://dx.doi.org/10.3389/fmolb.2023.1121962 
+
+J. Meiler,* M. Will,
+Automated Structure Elucidation of Organic Molecules from <sup>13</sup>C NMR Spectra Using Genetic Algorithms and Neural Networks
+J. Chem. Inf. Comput. Sci. 2002, 41, 1535-1546. http://dx.doi.org/10.1021/ci0102970 
+
+J. Meiler,* R. Meusinger, M. Will,
+Neural Network Prediction of 13C NMR Chemical Shifts of Substituted Benzenes
+Monatshefte fuer Chemie 2006, 130, 1089-1095. http://dx.doi.org/10.1007/PL00010287 
+
+E. McDonald, K. Oliver, J. Schlebach, J. Meiler,* L. Plate,
+Benchmarking AlphaMissense Pathogenicity Predictions Against Cystic Fibrosis Variants
+bioRxiv 2023. http://dx.doi.org/10.1101/2023.10.05.561147 
+
+A. Gulsevin, J. Meiler,*
+Benchmarking Peptide Structure Prediction with AlphaFold2
+bioRxiv 2022. http://dx.doi.org/10.1101/2022.02.17.480937 
+
+M. Ertelt, R. Moretti, J. Meiler,* C. Schoeder,
+Self-supervised machine learning methods for protein design improve sampling, but not the identification of high-fitness variants
+bioRxiv 2024. http://dx.doi.org/10.1101/2024.06.20.599843 
+
+D. del Alamo, D. Sala, H. Mchaourab, J. Meiler,*
+Sampling alternative conformational states of transporters and receptors with AlphaFold2
+eLife 2022, 11. http://dx.doi.org/10.7554/eLife.75751 
+
+A. Bleckmann, J. Meiler,*
+Epothilones: Quantitative Structure Activity Relations Studied by Support Vector Machines and Artificial Neural Networks
+QSAR Comb. Sci. 2003, 22, 722-728. http://dx.doi.org/10.1002/qsar.200330837 
+
+A. Gulsevin, B. Han, J. Porta, H. Mchaourab, J. Meiler,* A. Kenworthy,
+Template-free prediction of a new monotopic membrane protein fold and oligomeric assembly by Alphafold2
+bioRxiv 2022. http://dx.doi.org/10.1101/2022.07.12.499809 
+
+B. Brown, R. Stein, J. Meiler,* H. Mchaourab,
+Approximating Projections of Conformational Boltzmann Distributions with AlphaFold2 Predictions: Opportunities and Limitations
+J. Chem. Theory Comput. 2024, 20, 1434-1447. http://dx.doi.org/10.1021/acs.jctc.3c01081 
+
+B. Brown, O. Vu, A. Geanes, S. Kothiwale, M. Butkiewicz, E. Lowe, R. Mueller, R. Pape, J. Mendenhall, J. Meiler,*
+Introduction to the BioChemical Library (BCL): An Application-Based Open-Source Toolkit for Integrated Cheminformatics and Machine Learning in Computer-Aided Drug Discovery
+Front. Pharmacol. 2022, 13. http://dx.doi.org/10.3389/fphar.2022.833099 
+
+S. Kothiwale, C. Borza, A. Pozzi, J. Meiler,*
+Quantitative Structure–Activity Relationship Modeling of Kinase Selectivity Profiles
+Molecules 2017, 22, 1576. http://dx.doi.org/10.3390/molecules22091576 
+
+B. Brown, J. Mendenhall, A. Geanes, J. Meiler,*
+General Purpose Structure-Based Drug Discovery Neural Network Score Functions with Human-Interpretable Pharmacophore Maps
+J. Chem. Inf. Model. 2021, 61, 603-620. http://dx.doi.org/10.1021/acs.jcim.0c01001 
+
+C. Moth, J. Sheehan, A. Mamun, R. Sivley, A. Gulsevin, D. Rinker, J. Capra, J. Meiler,*
+VUStruct: a compute pipeline for high throughput and personalized structural biology
+bioRxiv 2024. http://dx.doi.org/10.1101/2024.08.06.606224 
+
+M. Butkiewicz, E. Lowe, R. Mueller, J. Mendenhall, P. Teixeira, C. Weaver, J. Meiler,*
+Benchmarking Ligand-Based Virtual High-Throughput Screening with the PubChem Database
+Molecules 2013, 18, 735-756. http://dx.doi.org/10.3390/molecules18010735 
+
+J. Koehler, R. Mueller, J. Meiler,*
+Improved prediction of trans-membrane spans in proteins using an artificial neural network
+2009 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology 2009, 68-74. http://dx.doi.org/10.1109/CIBCB.2009.4925709 
+
+C. Jones, B. Brown, D. Schultz, J. Engers, V. Kramlinger, J. Meiler,* C. Lindsley,
+Computer-Aided Design and Biological Evaluation of Diazaspirocyclic D<sub>4</sub>R Antagonists
+ACS Chem. Neurosci. 2024, 15, 2396-2407. http://dx.doi.org/10.1021/acschemneuro.4c00086 
+
+E. McDonald, T. Jones, L. Plate, J. Meiler,* A. Gulsevin,
+Benchmarking AlphaFold2 on peptide structure prediction
+Structure 2022, 31, 111-119.e2. http://dx.doi.org/10.1016/j.str.2022.11.012 
+
+D. del Alamo, D. Sala, H. Mchaourab, J. Meiler,*
+Sampling the conformational landscapes of transporters and receptors with AlphaFold2
+bioRxiv 2021. http://dx.doi.org/10.1101/2021.11.22.469536 
+
+M. Butkiewicz, E. Lowe, J. Meiler,*
+Bcl&amp;#x2237;ChemInfo - Qualitative analysis of machine learning models for activation of HSD involved in Alzheimer's Disease
+2012 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2012, 329-334. http://dx.doi.org/10.1109/CIBCB.2012.6217248 
+
+M. Ertelt, V. Mulligan, J. Maguire, S. Lyskov, R. Moretti, T. Schiffner, J. Meiler,* C. Schoeder,
+Combining machine learning with structure-based protein design to predict and engineer post-translational modifications of proteins
+PLoS Comput Biol 2024, 20, e1011939. http://dx.doi.org/10.1371/journal.pcbi.1011939 
+
+Y. Liu, Y. Wang, O. Vu, R. Moretti, B. Bodenheimer, J. Meiler,* T. Derr,
+Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery
+AAAI 2023, 37, 14356-14364. http://dx.doi.org/10.1609/aaai.v37i12.26679 
+
+J. Meiler,* W. Maier, M. Will, R. Meusinger,
+Using Neural Networks for 13C NMR Chemical Shift Prediction–Comparison with Traditional Methods
+Journal of Magnetic Resonance 2002, 157, 242-252. http://dx.doi.org/10.1006/jmre.2002.2599 
