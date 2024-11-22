@@ -27,6 +27,10 @@ class CrossRefClient(object):
     def doi2apa(self, doi):
         self.headers['accept'] = 'text/x-bibliography; style=apa'
         return self.query(doi).text
+
+    def doi2bibtex(self, doi):
+        self.headers['accept'] = 'text/x-bibliography; style=bibtex'
+        return self.query(doi).text
 		
     def doi2turtle(self, doi):
         self.headers['accept'] = 'text/turtle' 
